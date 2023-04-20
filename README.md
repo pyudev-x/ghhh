@@ -2,9 +2,7 @@
 
 ## Install instructions
 
-Download the repository zip open the directory where it downloaded
-and open out/artifacts/ghhh_jar then open the jar file. You will probably need
-the JDK and JRE installed.
+Check the releases and download the JAR file
 
 ## What the program does
 
